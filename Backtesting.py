@@ -3,6 +3,12 @@ import pandas as pd
 import ta
 from collections import namedtuple
 from FunctionsGANs import generator, prepare_stock_data, stock, simulate_price_scenarios, backtest_strategy
+import numpy as np
+import pandas as pd
+import ta
+from collections import namedtuple
+from FunctionsGANs import generator, prepare_stock_data, stock, simulate_price_scenarios, backtest_strategy
+
 
 stock, log_ret = stock('AAPL', '2014-11-01', '2024-11-17')
 
