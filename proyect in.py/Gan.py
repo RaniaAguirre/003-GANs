@@ -3,7 +3,7 @@ import tqdm
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-%matplotlib inline
+#%matplotlib inline
 import pandas_datareader.data as web
 import scipy.optimize as opt
 from scipy.optimize import minimize
