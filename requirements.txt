@@ -1,0 +1,10 @@
+TensorFlow: 2.17.0
+TQDM: 4.66.5
+Pandas: 2.2.3
+NumPy: 1.26.4
+Matplotlib: 3.9.2
+Pandas DataReader: 0.10.0
+SciPy: 1.14.1
+yFinance: 0.2.43
+Scikit-Learn: 1.5.2
+TensorFlow: 2.17.0
